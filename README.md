@@ -1,5 +1,5 @@
 # likes
-## Kaggle data competition: [Social Media Prediction](https://www.kaggle.com/c/ift6758-a20/data?select=train.csv)
+## Kaggle data competition (IFT 6758): [Social Media Prediction](https://www.kaggle.com/c/ift6758-a20/data?select=train.csv)
 Likes are the new $$$. How can we get more likes?
 
 
